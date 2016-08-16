@@ -6,7 +6,6 @@
     "Matt Boldt <me@mattboldt.com>"
   ],
   "description": "A jQuery typing animation script",
-  "main": "dist/typed.min.js",
   "keywords": [
     "typed",
     "animation"
